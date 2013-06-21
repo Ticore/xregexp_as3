@@ -1,4 +1,6 @@
-﻿h1. XRegExp AS3
+﻿# XRegExp AS3
+
+***
 
 XRegExp AS3 是從 XRegExp 2.0.0 (create by Steven Levithan - http://xregexp.com/) 移植到 ActionScript 3.0 版本
 盡量保留原本 Functional Style 寫法
